@@ -1,0 +1,24 @@
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Arquivos Python desnecessários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração sensíveis
+*.env
+
+# Docker
+docker-compose.override.yml
+*.log
+
+# Testes (Pytest)
+.pytest_cache/
+
+# IDEs e editores
+.vscode/
+.idea/
