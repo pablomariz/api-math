@@ -1,4 +1,4 @@
-# 📊 API Math - FastAPI
+# API Math - FastAPI
 
 Esta é uma API simples para operações matemáticas básicas, fornecendo endpoints para soma e média de uma lista de números.
 
@@ -40,7 +40,7 @@ A documentação interativa pode ser acessada em:
 
 ---
 
-## 🔬 Como Executar os Testes
+## Como Executar os Testes
 
 ```sh
 docker-compose run --rm api pytest
